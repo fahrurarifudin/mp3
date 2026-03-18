@@ -1,0 +1,27 @@
+{
+  "ads_config": {
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "ironsource_app_key": "1ef2b5e15"
+  },
+  "songs": [
+    {
+      "title": "Aku Cah Kerjo",
+      "artist": "Arlida Putri ft. Shinta Gisul",
+      "songUrl": "https://raw.githubusercontent.com/fahrurarifudin/mp3/main/Arlida%20Putri%20-%20Aku%20Cah%20Kerjo%20(feat.%20Shinta%20Gisul).mp3",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "title": "Lamunan",
+      "artist": "Arlida Putri ft. Dike Sabrina",
+      "songUrl": "https://raw.githubusercontent.com/fahrurarifudin/mp3/main/Arlida%20Putri%20-%20Lamunan%20(feat.%20Dike%20Sabrina).mp3",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "title": "Laut",
+      "artist": "Arlida Putri ft. Syahiba Saufa",
+      "songUrl": "https://raw.githubusercontent.com/fahrurarifudin/mp3/main/Arlida%20Putri%20-%20Laut%20(feat.%20Syahiba%20Saufa).mp3",
+      "imageUrl": "https://via.placeholder.com/150"
+    }
+  ]
+}
