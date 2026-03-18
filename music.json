@@ -1,7 +1,7 @@
 {
   "ads_config": {
-    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_banner_id": "0",
+    "admob_interstitial_id": "0",
     "ironsource_app_key": "1ef2b5e15"
   },
   "songs": [
